@@ -1,6 +1,6 @@
 # scrappy
 This is a Python script that allows a user to enter in URLs of job boards they want to watch as well as
-the keywords or job titles they are seeking by scraping the pages with BeautifulSoup. The script will run through all of the URLs and check if there are any matches for those keywords on that page. 
+the keywords or job titles they are seeking by scraping the pages with Beautiful Soup. The script will run through all of the URLs and check if there are any matches for those keywords on that page. 
 
 Notification options
 * Text message using Twilio API
